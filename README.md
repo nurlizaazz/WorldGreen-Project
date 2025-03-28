@@ -1,1 +1,6 @@
-
+![WG1](images/WG1.png)
+![WG2](images/WG2.png)
+![WG3](images/WG3.png)
+![WG4](images/WG4.png)
+![WG5](images/WG5.png)
+![WG6](images/WG6.png)
